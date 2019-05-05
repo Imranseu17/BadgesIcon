@@ -17,7 +17,7 @@ public interface Badger {
      * @param badgeCount Desired notification count
      * @throws ShortcutBadgeException
      */
-    void executeBadge(Context context, ComponentName componentName, int badgeCount) throws ShortcutBadgeException, me.leolin.shortcutbadger.ShortcutBadgeException;
+    void executeBadge(Context context, ComponentName componentName, int badgeCount) ;
 
     /**
      * Called to let {@link ShortcutBadger} knows which launchers are supported by this badger. It should return a
