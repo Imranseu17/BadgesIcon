@@ -5,6 +5,8 @@ import android.content.Context;
 
 import java.util.List;
 
+import me.leolin.shortcutbadger.ShortcutBadgeException;
+
 public interface Badger {
 
     /**

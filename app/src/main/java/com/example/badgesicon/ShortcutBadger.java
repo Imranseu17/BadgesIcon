@@ -16,6 +16,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
+import me.leolin.shortcutbadger.ShortcutBadgeException;
 import me.leolin.shortcutbadger.impl.DefaultBadger;
 import me.leolin.shortcutbadger.impl.OPPOHomeBader;
 import me.leolin.shortcutbadger.impl.VivoHomeBadger;
